@@ -10,8 +10,11 @@
   * [Contact](#contact)
   
   ## Demo
-  Insert Insomnia walk through video
+  Mysql walk through video
+  https://youtu.be/17McIpFRuwM 
   
+  Insomnia walk through video
+  https://youtu.be/vMVRntiLcYk
 
   ## Installation 
   Please install these dependencies: dotenv, mysql2, sequelize and express
